@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13192063595",
+    "project_id": "cclhat",
+    "storage_bucket": "cclhat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13192063595:android:430efce46352181655df2e",
+        "android_client_info": {
+          "package_name": "com.example.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13192063595-hi8786kklhvnnjft3uff1fjf9nqvetq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.groupchat",
+            "certificate_hash": "02af3813a3e845ffe12f75233b87ab0c673b9039"
+          }
+        },
+        {
+          "client_id": "13192063595-m4fdm65igvp0ju92mcgtpe19cuuqoahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO9feLaJZBFPDHidyH7VktTd3HiofzWyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13192063595-m4fdm65igvp0ju92mcgtpe19cuuqoahd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
